@@ -19,4 +19,15 @@ sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
 vde2
-zoom
+7-zip-bin
+exploit-db-git
+nordvpn-bin
+python-impacket-gi
+sublime-text-4
+telegram-desktop-bin
+rustscan
+smbmap
+sqlmap
+steam
+terminator
+vagrant
