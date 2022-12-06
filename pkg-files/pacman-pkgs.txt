@@ -105,3 +105,13 @@ zip
 zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
+duf
+yakuake
+vagrant
+traceroute
+snapd
+smbmap
+rustscan
+sherlock
+gobuster
+feroxbuster
